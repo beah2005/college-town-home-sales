@@ -32,7 +32,7 @@ _Replace this line with your site's question and audience, or a short descriptio
 
 ## Live site
 
-https://your-username.github.io/your-repo-name/
+https://beah2005.github.io/college-town-home-sales/ 
 
 ## Data notes
 
@@ -40,7 +40,7 @@ _Replace this line. Say which rows you left out and why, and how each figure on 
 
 ## Tools we used
 
-_Replace this line with your AI coding agent or agents, and any libraries and other tools you used._
+Github Education Copilot
 
 ## Citation
 
